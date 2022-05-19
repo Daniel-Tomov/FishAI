@@ -1,0 +1,4 @@
+train: fish_data/images/train
+val: fish_data/images/validation
+nc: 1
+names: ["dead"]
